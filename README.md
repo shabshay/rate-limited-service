@@ -2,4 +2,6 @@
 #### example of rest service (spring boot) which implements a rate limiter (by interceptor).  
 1. edit application.properties to change number of requests and interval values  
 2. run server and check logs in C:\\temp\\rls-logs\\  
-3. you may view edit and run the unit tests
+3. you may view edit and run the unit tests  
+4. use simulator for running number of clients in parallel:  
+https://github.com/shabshay/rate-limited-client 
